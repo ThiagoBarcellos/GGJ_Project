@@ -9,7 +9,6 @@ public class CanMoveTo : MonoBehaviour
     public bool canMove = false;
     public bool temElerons = false;
     Vector3 targetPosition;
-    public GameObject ppotse;
    
     //public gameObject player;
 

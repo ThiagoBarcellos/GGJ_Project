@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - habil
+  - Poste
+  - Central
+  - Player2
   layers:
   - Default
   - TransparentFX
